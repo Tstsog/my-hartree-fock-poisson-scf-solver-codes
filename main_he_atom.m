@@ -8,7 +8,7 @@
 % March 18, 2020
 % 
 clear; clc;
-Z = 2.;   % charge of Helium nuclei; 
+Z = 2.;   % charge of Helium nucleus; 
 N = 64;   % number of grid point; you may change it
 rb = 0.0; % beginning point of coordinate r 
 re = 15.; % ending point of coordnate r; you may change it
