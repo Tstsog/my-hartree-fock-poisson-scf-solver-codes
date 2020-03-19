@@ -1,4 +1,7 @@
-%%% Computes eigen energy for the lowest four doubly exited states of helium atom
+%%% Computes eigen energy for the ground state of helium atom
+% using a Hartree-Fock self-consistent method combined with a
+% pseudospectral method. An electron-electron interaction is computed with
+% in terms of a solution of a Poisson equation. 
 % Written by Tsogbayar Tsednee (PhD), California State University Northridge;
 % Contact: tsog215@gmail.com
 % Reference: Ts.Tsogbayar & D. L. Yeager,  Chinese Physics B 26, 083101 (2017)
