@@ -10,7 +10,8 @@ function [] = DFT_Poisson_solver_H2_ground_state
 %
 % Written by Tsogbayar Tsednee (PhD), California State University Northridge 
 % Contact: tsog215@gmail.com
-% Reference: Tsogbayar Tsednee, PhD thesis, available at https://yorkspace.library.yorku.ca/xmlui/handle/10315/28160
+% Reference: Tsogbayar Tsednee, http://page.physics.yorku.ca/tag/schedule/, & R. G. Parr and W. Yang,
+% Density-Functional Theory of Atoms and Molecules. 
 % Date: May 1, 2013
 %%%
 % ----------------------------------------------------------------
